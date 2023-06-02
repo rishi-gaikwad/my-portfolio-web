@@ -28,13 +28,15 @@
 
  <<<<<<< HEAD
 
- ![Screenshot 2023-06-01 232830](https://github.com/rishi-gaikwad/Protfolio-web/assets/117716265/5a79612b-e4e2-4623-897d-35116958d711)
+ 
+
+![Screenshot 2023-06-01 232830](https://github.com/rishi-gaikwad/Protfolio-web/assets/117716265/08a04f00-5a82-47eb-bf87-0278294e6acc)
 
 
- ![Screenshot 2023-06-01 232307](https://github.com/rishi-gaikwad/Protfolio-web/assets/117716265/8a356929-b783-43b0-a2a0-4975e0028a40)
+![Screenshot 2023-06-01 232307](https://github.com/rishi-gaikwad/Protfolio-web/assets/117716265/fa760148-dab0-486d-b192-f24773150b75)
 
 
- ![Screenshot 2023-06-01 232438](https://github.com/rishi-gaikwad/Protfolio-web/assets/117716265/eec47a50-9eb1-40e8-8633-5af9804daeca)
+![Screenshot 2023-06-01 232438](https://github.com/rishi-gaikwad/Protfolio-web/assets/117716265/f4ffbe45-387d-405d-9f78-9b95eb7b639b)
 
  #
 
